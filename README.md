@@ -77,14 +77,17 @@ We thank the MRIxFields 2026 Challenge organizers and data contributors, and the
 
 ## Citation
 
-If you find this work useful, please cite the manuscript:
+If you find this work useful, please cite:
 
 ```bibtex
-@misc{pang2026taskadaptive,
-  title  = {Task-Adaptive {3D} Cross-Field {MRI} Translation via Field-Conditioned Content-Style Pretraining},
-  author = {Pang, Haowen and Hao, Yingqi and Zhu, Pengli},
-  year   = {2026},
-  note   = {MRIxFields 2026 challenge manuscript},
-  url    = {https://github.com/Idea89560041/3D-MRI-Field-Translation}
+@InProceedings{PanHao_TaskAdaptive_MICCAISAT2026,
+  author    = {Pang, Haowen AND Hao, Yingqi AND Zhu, Pengli},
+  title     = {{Task-Adaptive 3D Cross-Field MRI Translation via Field-Conditioned Content-Style Pretraining}},
+  booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026 Workshops and Challenges},
+  year      = {2026},
+  publisher = {Springer Nature Switzerland},
+  volume    = {LNCS 17274},
+  month     = {pending},
+  page      = {pending}
 }
 ```
